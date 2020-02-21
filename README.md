@@ -1,6 +1,9 @@
 # AUA_ENGS110-project-Fuel-Consumbtion-Calculator
 This is my AUA ENGS110 2020 individual project
+                                                   
                                                    Objective
+
+
 The objective of this algorithm is calculating the fuel consumption of a given vehicle, taking in account such factors as range, speed, and volume of an engine. This algorithm is very useful, esspecially in an era where car manufacturing is as high as never before. Nowadays any vehicle using internal combustion engine needs an algorithm that will calculate the comsumption and offer some changes, in order to decrease the expences and encourage to use the fuel effectively, in order to avoid unneccessary environmental impacts.
 
                                                    Features     
