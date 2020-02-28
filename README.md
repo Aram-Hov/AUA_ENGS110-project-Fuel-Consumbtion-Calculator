@@ -1,4 +1,4 @@
-# AUA_ENGS110-project-Fuel-Consumbtion-Calculator
+# AUA_ENGS110 project-Vehicle Fuel Consumbtion Calculator
 This is my AUA ENGS110 2020 individual project
                                                    
                                                    Objective
