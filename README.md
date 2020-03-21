@@ -15,3 +15,9 @@ The target audience for this algorithm are car manufacturing companies, as-well-
                           The problems that should be solved during development of project.
 This algorithm should be rather complicated as it should take into account diverse driving styles, speed, and engine volume. The algorithm should also be ready to execute with different fuel types (oil, diesel, etc.)
 
+
+
+                                            Two stories or 2 features
+
+There are two stories when the algorithm may be helpful for the drivers. Firstly it shows the consumption of the vehicle, which may motivate the driver to change his driving style to more effectively use the remaining fuel.
+Secondly, if the fuel consumption is too high, the algorithm may recomend to change the driving style to avoid unneccesary fuel consumption.
