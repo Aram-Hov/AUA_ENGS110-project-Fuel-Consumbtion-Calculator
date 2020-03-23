@@ -1,0 +1,44 @@
+{
+  "vehicle_brands": [
+    {
+      "brand" :  "BMW",
+      "series": "series 3",
+      "fuel for 0,3km" : 0.025
+    },
+    {
+      "brand" : "BMW",
+      "series" : "series 5",
+      "fuel for 0,3km" : 0.023
+    },
+    {
+      "brand" : "BMW",
+      "series" : "series 7",
+      "fuel for 0.3km" : 0.015
+    },
+    {
+       "brand" :"BMW",
+      "series": "X7",
+      "fuel for 0.3km" : 0.0416
+    },
+    {
+      "brand" :"Mercedes-Benz",
+      "series": "C class",
+      "fuel for 0.3km" : 0.0263
+    },
+    {
+       "brand" :"Mercedes-Benz",
+      "series": "E class",
+      "fuel for 0.3km" : 0.0075
+    },
+    {
+       "brand" :"Mercedes-Benz",
+      "series": "S class",
+      "fuel for 0.3km" : 0.0379
+    },
+    {
+       "brand" :"Mercedes-Benz",
+      "series": "G class",
+      "fuel for 0.3km" : 0.0476
+    }
+  ]
+}
