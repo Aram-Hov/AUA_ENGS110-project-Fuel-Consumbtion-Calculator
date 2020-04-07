@@ -3,12 +3,12 @@
     {
       "brand" :  "BMW",
       "series": "series 3",
-      "fuel for 0,3km" : 0.025
+      "fuel for 0.3km" : 0.025
     },
     {
       "brand" : "BMW",
       "series" : "series 5",
-      "fuel for 0,3km" : 0.023
+      "fuel for 0.3km" : 0.023
     },
     {
       "brand" : "BMW",
@@ -39,6 +39,79 @@
        "brand" :"Mercedes-Benz",
       "series": "G class",
       "fuel for 0.3km" : 0.0476
+    },
+    {
+      "brand":  "Toyota",
+      "series": "Camry",
+      "fuel for 0.3km": 0.0256
+    },
+    {
+      "brand":  "Toyota",
+      "series": "Corolla",
+      "fuel for 0.3km": 0.0229
+    },
+    {
+      "brand":  "Hyundai",
+      "series": "Sonata",
+      "fuel for 0.3km": 0.0297
+    },
+    {
+      "brand":  "Hyundai",
+      "series": "Elantra",
+      "fuel for 0.3km": 0.0265
+    },
+    {
+      "brand":  "Kia",
+      "series": "Optima",
+      "fuel for 0.3km": 0.0285
+    },
+    {
+      "brand":  "Kia",
+      "series": "Cerato",
+      "fuel for 0.3km": 0.0212
+    },
+    {
+      "brand":  "Kia",
+      "series": "Sportage",
+      "fuel for 0.3km": 0.0245
+    },
+    {
+      "brand":  "Kia",
+      "series": "Stinger",
+      "fuel for 0.3km": 0.0321
+    },
+    {
+      "brand":  "Volkswagen",
+      "series": "Golf",
+      "fuel for 0.3km": 0.0147
+    },
+    {
+      "brand":  "Volkswagen",
+      "series": "Polo",
+      "fuel for 0.3km": 0.0159
     }
+  ],
+  "trip_simulating_values": [
+    0.025,
+    0.03,
+    0.015,
+    0.0416,
+    0.0263,
+    0.0356,
+    0.0852,
+    0.0541,
+    0.0476,
+    0.0769,
+    0.0256,
+    0.0229,
+    0.0297,
+    0.0265,
+    0.0287,
+    0.0212,
+    0.0294,
+    0.0159,
+    0.0147,
+    0.0193
   ]
 }
+
