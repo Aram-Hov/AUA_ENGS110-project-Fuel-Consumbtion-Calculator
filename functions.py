@@ -12,10 +12,6 @@ def calculate_1(sample):
     elif variable == "2":
         print(consumption_2, "L/100km")
 
-
-
-
-
 def calculate_2(vehicle):
     distance = 0.3
     fuel_consumed = vehicle["fuel for 0.3km"]
