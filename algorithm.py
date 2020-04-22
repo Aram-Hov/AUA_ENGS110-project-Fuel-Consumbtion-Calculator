@@ -1,19 +1,20 @@
-import json
-import time
 import functions
+functions.load_vehicle_lists()
 
-with open("data.JSON") as f:
-    data = json.load(f)
+def main():
+    print('Welcome to fuel consumption calculator!')
+    while True:
+        story = functions.choose_story()
+        functions.choice_of_story(story)
+        while True:
+            continue_or_exit = input("\n\nIn case you want to continue press 1 else print 2 to exit > ")
+            if continue_or_exit not in ("1", "2"):
+                print("Please try again")
+            elif continue_or_exit == "1":
+                break
+            elif continue_or_exit == "2":
+                print("Thanks for using our app, see you soon!")
+                break
+        break
 
-story = input("Press 1 for Trip or 2 for brand/model - ")
-
-if story == "1":
-    for sample in data["trip_simulating_values"]:
-        functions.calculate_1(sample)
-        time.sleep(1)
-    print("Trip is over, goodbye!")
-
-elif story == "2":
-    for vehicle in data["vehicle_brands"]:
-        functions.calculate_2(vehicle)
-
+main()
