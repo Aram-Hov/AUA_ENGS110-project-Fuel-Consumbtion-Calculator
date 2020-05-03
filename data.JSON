@@ -1,0 +1,117 @@
+{
+  "vehicle_brands": [
+    {
+      "brand" :  "bmw",
+      "series": "series 3",
+      "fuel for 0.3km" : 0.025
+    },
+    {
+      "brand" : "bmw",
+      "series" : "series 5",
+      "fuel for 0.3km" : 0.023
+    },
+    {
+      "brand" : "bmw",
+      "series" : "series 7",
+      "fuel for 0.3km" : 0.015
+    },
+    {
+       "brand" :"bmw",
+      "series": "x7",
+      "fuel for 0.3km" : 0.0416
+    },
+    {
+      "brand" :"mercedes-benz",
+      "series": "e  class",
+      "fuel for 0.3km" : 0.0263
+    },
+    {
+       "brand" :"mercedes-benz",
+      "series": "e class",
+      "fuel for 0.3km" : 0.0075
+    },
+    {
+       "brand" :"mercedes-benz",
+      "series": "s class",
+      "fuel for 0.3km" : 0.0379
+    },
+    {
+       "brand" :"mercedes-benz",
+      "series": "g class",
+      "fuel for 0.3km" : 0.0476
+    },
+    {
+      "brand":  "toyota",
+      "series": "camry",
+      "fuel for 0.3km": 0.0256
+    },
+    {
+      "brand":  "toyota",
+      "series": "corolla",
+      "fuel for 0.3km": 0.0229
+    },
+    {
+      "brand":  "hyundai",
+      "series": "sonata",
+      "fuel for 0.3km": 0.0297
+    },
+    {
+      "brand":  "hyundai",
+      "series": "elantra",
+      "fuel for 0.3km": 0.0265
+    },
+    {
+      "brand":  "kia",
+      "series": "optima",
+      "fuel for 0.3km": 0.0285
+    },
+    {
+      "brand":  "kia",
+      "series": "cerato",
+      "fuel for 0.3km": 0.0212
+    },
+    {
+      "brand":  "kia",
+      "series": "sportage",
+      "fuel for 0.3km": 0.0245
+    },
+    {
+      "brand":  "kia",
+      "series": "stinger",
+      "fuel for 0.3km": 0.0321
+    },
+    {
+      "brand":  "volkswagen",
+      "series": "golf",
+      "fuel for 0.3km": 0.0147
+    },
+    {
+      "brand":  "volkswagen",
+      "series": "polo",
+      "fuel for 0.3km": 0.0159
+    }
+  ],
+  "trip_simulating_values": [
+    0.025,
+    0.03,
+    0.015,
+    0.0416,
+    0.0263,
+    0.0356,
+    0.0852,
+    0.0541,
+    0.0476,
+    0.0769,
+    0.0256,
+    0.0229,
+    0.0297,
+    0.0265,
+    0.0287,
+    0.0212,
+    0.0294,
+    0.0159,
+    0.0147,
+    0.0193
+  ]
+}
+
